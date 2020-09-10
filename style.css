@@ -8,7 +8,7 @@ body {
 }
 
 #Parallax-1 {
-    background: url("images\blue_background-01.png") no-repeat center center fixed;
+    background-image: url("images\blue_background-01.png") no-repeat center center fixed;
 	background-size: cover;
 	width: 100%;
 }
