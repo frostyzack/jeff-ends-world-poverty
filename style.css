@@ -1,0 +1,19 @@
+html {
+    overflow: scroll;
+    overflow-x: scroll;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+#Parallax-1 {
+    background: url("images\blue_background-01.png") no-repeat center center fixed;
+	background-size: cover;
+	width: 100%;
+}
+
+.Inner-Parallax-1 {
+    width: 100%;
+    height: 100%;
+}
